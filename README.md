@@ -1,2 +1,0 @@
-# hyips.github.io
-Hyips
