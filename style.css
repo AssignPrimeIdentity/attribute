@@ -149,7 +149,7 @@ img:hover{
   color: #fff;
 }
 .btn-theme{
-  background-color:#d083cf;
+  background-color:#a0d6d4;
   color: #fff;
 }
 .btn-theme:hover{
@@ -252,7 +252,7 @@ img:hover{
   transition: all 0.5s;
 }
 .top_nav li a:hover{
-  background-color: #d083cf;
+  background-color: #a0d6d4;
 }
 .header_top_right{
   float: left;
@@ -1154,7 +1154,7 @@ figure.effect-layla:hover img {
   background-color: #fff;
   font-weight: normal;
   padding: 5px;
-  color: #d083cf;
+  color: #a0d6d4;
 }
 .nav-tabs > li {
   display: inline-block;
@@ -1175,9 +1175,9 @@ figure.effect-layla:hover img {
   transition: all 0.5s;
 }
 .pagination > li > a:hover,.pagination > li > a:focus{
-  background-color: #d083cf;
+  background-color: #a0d6d4;
   color: #fff;
-  border-color: #d083cf;
+  border-color: #a0d6d4;
 }
 .pagination > li:first-child > a, .pagination > li:first-child > span {
   border-bottom-left-radius: 0px;
@@ -1512,7 +1512,7 @@ figure.effect-layla:hover img {
   transition: all 0.5s;
 }
 .contact_form input[type="submit"]:hover{
-  border: 1px solid #d083cf;
+  border: 1px solid #a0d6d4;
 }
 
 /*======================///////////////
